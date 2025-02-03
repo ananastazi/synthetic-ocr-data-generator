@@ -1,0 +1,13 @@
+2025-01-31 21:58:06,156 - WARNING - Text 'Стабілізатор для камери' exceeds bounding box size (98x16). Skipping rendering.
+2025-01-31 22:03:05,578 - WARNING - Text 'Ласти з відкритою п’ятою' exceeds bounding box size (98x16). Skipping rendering.
+2025-02-02 21:51:15,145 - WARNING - Text 'Датчик активності для тварин' does not fit in the box (np.int64(18), np.int64(253), np.int64(98), np.int64(16)). Skipping.
+2025-02-02 21:51:15,415 - WARNING - Text 'Струменевий принтер' does not fit in the box (np.int64(16), np.int64(253), np.int64(98), np.int64(16)). Skipping.
+2025-02-02 21:51:15,525 - WARNING - Text 'Пістолет для термоклею' does not fit in the box (np.int64(22), np.int64(252), np.int64(98), np.int64(16)). Skipping.
+2025-02-02 21:51:16,013 - WARNING - Text 'Напівсухий гідрокостюм' does not fit in the box (np.int64(19), np.int64(256), np.int64(98), np.int64(16)). Skipping.
+2025-02-02 21:51:17,398 - WARNING - Text 'Випарювальна чашка' does not fit in the box (np.int64(15), np.int64(255), np.int64(98), np.int64(16)). Skipping.
+2025-02-02 21:51:55,098 - WARNING - Text 'Теплоізоляційний кабель' does not fit in the box (np.int64(24), np.int64(252), np.int64(98), np.int64(16)). Skipping.
+2025-02-02 21:51:55,113 - WARNING - Text 'Реактор високого тиску' does not fit in the box (np.int64(9), np.int64(334), np.int64(98), np.int64(18)). Skipping.
+2025-02-02 21:51:55,366 - WARNING - Text 'Колаген для волосся' does not fit in the box (np.int64(20), np.int64(255), np.int64(98), np.int64(16)). Skipping.
+2025-02-02 21:51:56,127 - WARNING - Text 'Органайзер для гачків і приманок' does not fit in the box (np.int64(10), np.int64(251), np.int64(98), np.int64(16)). Skipping.
+2025-02-02 21:51:56,852 - WARNING - Text 'Комп’ютер для дайвінгу' does not fit in the box (np.int64(7), np.int64(331), np.int64(98), np.int64(18)). Skipping.
+2025-02-02 23:36:55,592 - WARNING - Text 'Електрофорезний апарат' cannot fit in the box (np.int64(17), np.int64(334), np.int64(98), np.int64(18)) even with reduced font size.
